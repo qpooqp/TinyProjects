@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>dotnet-GenericHost.HelloWorld-88E807B0-A682-4F4D-86C4-8483597E3564</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.6" />
+  </ItemGroup>
+</Project>
